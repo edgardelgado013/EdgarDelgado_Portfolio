@@ -1,2 +1,2 @@
 # EdgarDelgado_Portfolio
-This repository contains a sample of projects using a variety of algorithms that go from basic ML (Linear Regression, Logistic Regression, XGBoost Regressor and Clasificator, etc.) to more advanced techniques (CNNs with 3D UNet architecture, LLMs with ttranformers).
+This repository contains a sample of projects using a variety of algorithms that go from basic ML (Linear Regression, Logistic Regression, XGBoost Regressor and Clasificator, etc.) to more advanced techniques (CNNs with 3D UNet architecture, LLMs with tranformers). Feel free to look the notebooks, I took the time to explain what I was doing and hopefully it's not too hard to follow.
